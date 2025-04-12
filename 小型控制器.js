@@ -1,6 +1,6 @@
 // @ts-nocheck
 const METADATA = {
-    website: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jP4j7Z7qBOyJ1TZIZ_PPQpDzcoO_yzJx&authKey=diMWaTghzPcejYzkEN87eQjK5cGddKBE0REbK%2FARc%2FNxqBV4Nm64THJanRkwIg85&noverify=0&group_code=1163635014",
+    website: "https://github.com/Helium-ion/Shapez-SmallController",
     author: "硝酸饮料",
     name: "小型控制器",
     version: "1.0",
